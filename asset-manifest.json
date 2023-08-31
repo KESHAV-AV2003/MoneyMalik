@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MoneyMalik/static/css/main.adf4cdf8.css",
-    "main.js": "/MoneyMalik/static/js/main.ce26e814.js",
+    "main.js": "/MoneyMalik/static/js/main.1340771f.js",
     "static/js/787.4c026eef.chunk.js": "/MoneyMalik/static/js/787.4c026eef.chunk.js",
     "static/media/How to Trade the Head and Shoulders Pattern.png": "/MoneyMalik/static/media/How to Trade the Head and Shoulders Pattern.f0d99b953c84d8f25c34.png",
     "static/media/Symmetrical-Triangle.jpg": "/MoneyMalik/static/media/Symmetrical-Triangle.79f2414b04d52ec7de67.jpg",
@@ -27,11 +27,11 @@
     "static/media/Flag pattern.png": "/MoneyMalik/static/media/Flag pattern.1564ecb318150f529dc8.png",
     "index.html": "/MoneyMalik/index.html",
     "main.adf4cdf8.css.map": "/MoneyMalik/static/css/main.adf4cdf8.css.map",
-    "main.ce26e814.js.map": "/MoneyMalik/static/js/main.ce26e814.js.map",
+    "main.1340771f.js.map": "/MoneyMalik/static/js/main.1340771f.js.map",
     "787.4c026eef.chunk.js.map": "/MoneyMalik/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adf4cdf8.css",
-    "static/js/main.ce26e814.js"
+    "static/js/main.1340771f.js"
   ]
 }
